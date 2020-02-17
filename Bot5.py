@@ -26,3 +26,4 @@ async def test(ctx)
     await ctx.send('Test Command by Xenic')	
 
 bot.run(token)
+bot.login(process.env.token);
