@@ -9,7 +9,7 @@ def __init__(self, bot commands.Bot)
 bot = commands.Bot(command_prefix=%,
                    case_insensitive=True, owner_id=)
 
-token = Njc4NDY2NjI4OTU4MTU4ODYw.Xkoiqw.I8ep0JpZ1RfgZkUb7lJKIp0wp8k
+token = "Njc4NDY2NjI4OTU4MTU4ODYw.Xkoiqw.I8ep0JpZ1RfgZkUb7lJKIp0wp8k"
 clear = lambda os.system('cls')
 
 @bot.event
